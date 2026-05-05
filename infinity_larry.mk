@@ -24,6 +24,7 @@ INFINITY_MAINTAINER := SUJΛL
 INFINITY_BUILD_TYPE := UNOFFICIAL
 TARGET_SUPPORTS_BLUR := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
+INFINITY_OTA_URL := https://raw.githubusercontent.com/imCrest/Infinityx-Release/main/larry.json
 
 PRODUCT_SYSTEM_PROPERTIES += \
     ro.product.marketname=OnePlus Nord CE 3 Lite \
